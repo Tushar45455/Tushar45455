@@ -69,13 +69,6 @@ _Babhale Infotech Solutions LLP Pvt. Ltd., Nagpur_
 
 ---
 
-## 📈 GitHub Stats
-
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tushar45455&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar45455&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 - 📧 Email: tusharkadu108@gmail.com  
